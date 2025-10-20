@@ -14,7 +14,7 @@ Software Engineer and FCSE - Skopje graduate with a drive for creating impactful
 
 Got an idea? Want to collaborate? I'm always open to connecting!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sandra-georgiev-5451bb1bb/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sandra-georgiev-5451bb1bb/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sandrageorgiev002@gmail.com)
 
 ---
